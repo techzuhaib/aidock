@@ -43,6 +43,9 @@ VAE_MODELS=(
 
 LORA_MODELS=(
     "https://civitai.com/api/download/models/1014864?token=960b15a5d629c909f93c276101c8fb90"
+    "https://huggingface.co/ZUHAIB8786/lorav11/resolve/main/lora_11.safetensors"
+    "https://huggingface.co/ZUHAIB8786/lorav11/resolve/main/lora_v13.safetensors"
+    "https://huggingface.co/ZUHAIB8786/lorav11/resolve/main/lora_v6.safetensors"
 )
 
 ESRGAN_MODELS=(
