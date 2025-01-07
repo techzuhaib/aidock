@@ -19,6 +19,8 @@ PIP_PACKAGES=(
 )
 
 NODES=(
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
     
 )
 
