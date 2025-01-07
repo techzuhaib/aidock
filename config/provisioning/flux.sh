@@ -22,6 +22,9 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
     "https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
+    "https://github.com/Jonseed/ComfyUI-Detail-Daemon"
+    "https://github.com/chrisgoringe/cg-image-picker"
+    "https://github.com/rgthree/rgthree-comfy"
     
     
 )
