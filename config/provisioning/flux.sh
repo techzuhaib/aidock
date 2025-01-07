@@ -33,6 +33,7 @@ CLIP_MODELS=(
 )
 
 UNET_MODELS=(
+    "https://civitai.com/api/download/models/947686?token=960b15a5d629c909f93c276101c8fb90"
 )
 
 VAE_MODELS=(
